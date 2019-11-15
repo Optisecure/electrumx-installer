@@ -10,8 +10,8 @@ UPDATE_ONLY=0
 UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
-ELECTRUMX_GIT_URL="https://github.com/kyuupichan/electrumx"
-ELECTRUMX_GIT_BRANCH=""
+ELECTRUMX_GIT_URL="https://github.com/akshaynexus/electrumx"
+ELECTRUMX_GIT_BRANCH="add-vitae"
 
 installer=$(realpath $0)
 
